@@ -4,40 +4,75 @@
     density="560dpi"
     format="8"
     plugin-version="2.2.0"
-    timestamp="151550910012970"
+    timestamp="208262556712740"
     token="-8716353459568368750"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="186" />
     <task
         name="instant-run-dex"
-        duration="0" />
+        duration="27" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="94" />
     <task
         name="verifier"
-        duration="0" />
+        duration="3" />
 
     <artifact
-        location="C:\Users\Fany\AndroidStudioProjects\MasViews\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-        type="RESOURCES" />
+        location="C:\Users\Fany\AndroidStudioProjects\MasViews\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
 
     <build
-        timestamp="149674343809724"
+        timestamp="207682353297236"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\Fany\AndroidStudioProjects\MasViews\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="151550910012970"
-        verifier="COLD_SWAP_REQUESTED" >
+        timestamp="208022410631145"
+        verifier="COMPATIBLE" >
         <artifact
             location="C:\Users\Fany\AndroidStudioProjects\MasViews\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
             type="RESOURCES" />
+    </build>
+    <build
+        timestamp="208058379701043"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Fany\AndroidStudioProjects\MasViews\app\build\intermediates\builds\debug\208058379701043\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="208089256938157"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Fany\AndroidStudioProjects\MasViews\app\build\intermediates\builds\debug\208089256938157\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="208160297958335"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Fany\AndroidStudioProjects\MasViews\app\build\intermediates\builds\debug\208160297958335\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="208213262733729"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Fany\AndroidStudioProjects\MasViews\app\build\intermediates\builds\debug\208213262733729\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="208262556712740"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Fany\AndroidStudioProjects\MasViews\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
     </build>
 
 </instant-run>

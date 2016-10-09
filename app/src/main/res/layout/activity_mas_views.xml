@@ -12,10 +12,34 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="example.org.masviews.MasViewsActivity">
 
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal"
+        android:ems="10"
+        android:id="@+id/entrada"
+        android:hint="Introduce un número" />
+
+    <Button
+        android:text="0"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/boton0"
+        android:onClick="sePulsa0"
+        android:tag="0" />
+
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/button"
         android:background="@drawable/boton"
         android:onClick="sePulsa" />
+
+    <TextView
+        android:text='""'
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/salida"
+        android:textColor="#0000FF"
+        android:hint="Resultado" />
 </LinearLayout>

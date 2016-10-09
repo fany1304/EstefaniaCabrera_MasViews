@@ -1,4 +1,4 @@
-#Sat Oct 08 17:15:16 CEST 2016
+#Sun Oct 09 09:21:20 CEST 2016
 base.0=C\:\\Users\\Fany\\AndroidStudioProjects\\MasViews\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_6c8b775a9753df426fdcd32c155e57db7a910f0f
 renamed.1=classes.dex
 renamed.0=classes2.dex
